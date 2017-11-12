@@ -1,2 +1,18 @@
-# chrome-extensions
-chrome extensions
+## chrome-extensions（谷歌浏览器插件）
+这是自制的两款chrome插件，功能相对简单。
+
+### 安装
+1. 下载对应文件夹；
+2. 打开谷歌浏览器，打开“更多工具”里的“扩展程序页面”；
+3. 勾选“开发者模式”，选择“打包扩展程序”，选择完成后会生成对应可用插件；
+4. 安装插件即可。
+
+#### 天气预报插件
+调用[和风天气api](http://apistore.baidu.com/apiworks/servicedetail/880.html)
+
+#### 体育新闻插件
+请求[新浪NBA](http://sports.sina.com.cn/nba/)页面，对页面进行二次处理，过滤无用信息，将最简洁的页面呈现出来。
+
+## 过了很久了，可能有些功能已经没用了。
+
+
